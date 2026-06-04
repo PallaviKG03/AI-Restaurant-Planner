@@ -12,10 +12,3 @@ An interactive, AI-powered restaurant planner and menu matrix built using **Stre
 * **Frontend UI:** Streamlit
 * **LLM Orchestration:** LangChain Core
 * **AI Model Inference:** Groq Cloud (`llama-3.1-8b-instant`)
-
-## 🚀 How to Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/PallaviKG03/AI-Restaurant-Planner.git](https://github.com/PallaviKG03/AI-Restaurant-Planner.git)
-   cd AI-Restaurant-Planner
